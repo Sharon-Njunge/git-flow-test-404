@@ -1,0 +1,25 @@
+.topnav{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+    border: none;
+    font-size: medium;
+
+
+}
+#first{
+    color: orangered;
+}
+body{
+    background-color: aqua;
+}
+.image{
+    height: 30px;
+    width: 30px;
+    display: flex;
+   
+}
+button{
+    color: orangered;
+    border: none;
+}
