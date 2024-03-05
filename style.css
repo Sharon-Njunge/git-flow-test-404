@@ -25,21 +25,19 @@ button{
     color: orangered;
     border: none;
 }
-.image1{
-    height: 40px;
-    width: 40px;
-}
+
 .container{
     display: flex;
     
     }
-    .image1{
+     .image1{
         display: block;
-        margin-left: auto;
-        margin-right: auto;
+       
         margin-top: 10%;
          width: 40%; 
-        border-radius: 30px solid;
+        border-radius:80px ; 
+        background-color: blueviolet;
+        
    }
    h1{
     font-size: 600%;
@@ -54,5 +52,10 @@ button{
     button{
         background-color: orangered;
         color: antiquewhite;
+    }
+    .footer{
+        display: flex;
+        justify-content: 80px;
+        justify-content: space-around;
     }
     
