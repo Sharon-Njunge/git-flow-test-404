@@ -12,6 +12,8 @@
 }
 body{
     background-color: aqua;
+    border: 1px solid;
+    padding: 20px;
 }
 .image{
     height: 30px;
@@ -23,3 +25,34 @@ button{
     color: orangered;
     border: none;
 }
+.image1{
+    height: 40px;
+    width: 40px;
+}
+.container{
+    display: flex;
+    
+    }
+    .image1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10%;
+         width: 40%; 
+        border-radius: 30px solid;
+   }
+   h1{
+    font-size: 600%;
+    color: white;
+   }
+    h4{
+        font-size: 200%;
+    }
+    .paragraph{
+        display: flex;
+    }
+    button{
+        background-color: orangered;
+        color: antiquewhite;
+    }
+    
